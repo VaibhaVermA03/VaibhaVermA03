@@ -12,7 +12,7 @@
 
   <text class="mono rise a1" x="48" y="32" font-size="16" fill="var(--bone)">B.Tech in CSE, Chaudhary Devi Lal State Institute of Engg. &amp; Tech., Sirsa · 2022 – 2026.</text>
   <text class="mono rise a2" x="48" y="60" font-size="16" fill="var(--bone)">Building LLM-powered products - Python, FastAPI, LangChain, LangGraph, OpenAI API, RAG, React.</text>
-  <text class="mono rise a3" x="48" y="88" font-size="15" fill="var(--muted)">Drawn to AI systems you can trust - cited sources, evidence-backed output, human-approved actions.</text>
+  <text class="mono rise a3" x="48" y="88" font-size="16" fill="var(--muted)">Drawn to AI systems you can trust - cited sources, evidence-backed output, human-approved actions.</text>
 
   <line class="rise a4" x1="48" y1="116" x2="952" y2="116" stroke="var(--rule)" stroke-width="1" opacity=".5"/>
 

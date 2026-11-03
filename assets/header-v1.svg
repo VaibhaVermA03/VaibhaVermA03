@@ -27,27 +27,27 @@
   </g>
 
   <g class="rise a2">
-    <text fill="var(--bone)" class="mono" x="46" y="176" font-size="72" letter-spacing="-2">Vaibhav Verma</text>
+    <text fill="var(--bone)" class="mono" x="46" y="176" font-size="80" letter-spacing="-2">Vaibhav Verma</text>
   </g>
   <g class="fade a3">
-    <text fill="var(--muted)" class="mono" x="48" y="214" font-size="19">Generative AI Engineer — New Delhi, India.</text>
+    <text fill="var(--muted)" class="mono" x="48" y="214" font-size="25">Generative AI Engineer — New Delhi, India.</text>
   </g>
 
   <g class="fade a4">
-  <text fill="var(--dim)" class="mono" x="48" y="274" font-size="12.5" letter-spacing="1">Focus  ▸</text>
-  <text fill="var(--accent)" class="mono" x="128" y="274" font-size="12.5" letter-spacing="1">LLM Applications · RAG Pipelines · AI Agents · FastAPI Backends</text>
+  <text fill="var(--dim)" class="mono" x="48" y="274" font-size="16" letter-spacing="1">Focus  ▸</text>
+  <text fill="var(--accent)" class="mono" x="128" y="274" font-size="16" letter-spacing="1">LLM Applications · RAG Pipelines · AI Agents · FastAPI Backends</text>
   </g>
   <g class="fade a5">
-    <text fill="var(--dim)" class="mono" x="48" y="300" font-size="12.5" letter-spacing="1">Open to Full-time Roles · Internships · Freelance · Collaboration</text>
+    <text fill="var(--dim)" class="mono" x="48" y="300" font-size="16" letter-spacing="1">Open to Full-time Roles · Internships · Freelance · Collaboration</text>
   </g>
 
   <line class="draw a5" x1="48" y1="342" x2="952" y2="342" stroke="var(--rule)" stroke-width="1"/>
   <g class="fade a6">
-    <text fill="var(--muted)" class="mono" x="48" y="374" font-size="11.5" letter-spacing="3">LLM APPLICATIONS</text>
-    <text fill="var(--accent)" class="mono" x="222" y="374" font-size="11.5">·</text>
-    <text fill="var(--muted)" class="mono" x="252" y="374" font-size="11.5" letter-spacing="3">RAG PIPELINES</text>
-    <text fill="var(--accent)" class="mono" x="397" y="374" font-size="11.5">·</text>
-    <text fill="var(--muted)" class="mono" x="427" y="374" font-size="11.5" letter-spacing="3">AI AGENTS</text>
-    <text fill="var(--muted)" class="mono" x="952" y="374" font-size="11.5" letter-spacing="3" text-anchor="end">B.TECH CSE — 2022 / 2026</text>
+    <text fill="var(--muted)" class="mono" x="48" y="374" font-size="12.5" letter-spacing="3">LLM APPLICATIONS</text>
+    <text fill="var(--accent)" class="mono" x="222" y="374" font-size="12.5">·</text>
+    <text fill="var(--muted)" class="mono" x="252" y="374" font-size="12.5" letter-spacing="3">RAG PIPELINES</text>
+    <text fill="var(--accent)" class="mono" x="397" y="374" font-size="12.5">·</text>
+    <text fill="var(--muted)" class="mono" x="427" y="374" font-size="12.5" letter-spacing="3">AI AGENTS</text>
+    <text fill="var(--muted)" class="mono" x="952" y="374" font-size="12.5" letter-spacing="3" text-anchor="end">B.TECH CSE — 2022 / 2026</text>
   </g>
 </svg>

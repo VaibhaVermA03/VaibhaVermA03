@@ -18,24 +18,24 @@
 
   <g class="mono">
     <g class="row r1" transform="translate(0 20)">
-      <text class="title" x="48" y="24">01 / ORYN</text>
-      <text class="copy" x="48" y="49">Enterprise knowledge RAG engine — ask questions over uploaded documents and get answers with source citations.</text>
-      <text class="copy" x="48" y="68">Hybrid Pinecone + PostgreSQL search, Cohere reranking, multi-tenant RBAC workspaces, streaming and eval analytics.</text>
-      <text class="meta" x="48" y="87">REACT · TYPESCRIPT · PYTHON · FASTAPI · POSTGRESQL · PINECONE · OPENAI · COHERE</text>
+      <text class="title" x="48" y="24" font-size="20">01 / ORYN</text>
+      <text class="copy" x="48" y="49" font-size="16">Enterprise knowledge RAG engine — ask questions over uploaded documents and get answers with source citations.</text>
+      <text class="copy" x="48" y="68" font-size="16">Hybrid Pinecone + PostgreSQL search, Cohere reranking, multi-tenant RBAC workspaces, streaming and eval analytics.</text>
+      <text class="meta" x="48" y="87" font-size="11">REACT · TYPESCRIPT · PYTHON · FASTAPI · POSTGRESQL · PINECONE · OPENAI · COHERE</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r2" transform="translate(0 130)">
-      <text class="title" x="48" y="24">02 / NEXIS</text>
-      <text class="copy" x="48" y="49">AI agent &amp; workflow automation platform — build autonomous agents that run multi-step tasks with LangGraph.</text>
-      <text class="copy" x="48" y="68">OpenAI tool calling, custom REST tools, API key management, live SSE execution monitoring, approval-based tool runs.</text>
-      <text class="meta" x="48" y="87">REACT · JAVASCRIPT · PYTHON · FASTAPI · POSTGRESQL · LANGGRAPH · OPENAI API</text>
+      <text class="title" x="48" y="24" font-size="20">02 / NEXIS</text>
+      <text class="copy" x="48" y="49" font-size="16">AI agent &amp; workflow automation platform — build autonomous agents that run multi-step tasks with LangGraph.</text>
+      <text class="copy" x="48" y="68" font-size="16">OpenAI tool calling, custom REST tools, API key management, live SSE execution monitoring, approval-based tool runs.</text>
+      <text class="meta" x="48" y="87" font-size="11">REACT · JAVASCRIPT · PYTHON · FASTAPI · POSTGRESQL · LANGGRAPH · OPENAI API</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
     <g class="row r3" transform="translate(0 240)">
-      <text class="title" x="48" y="24">03 / SYNAXYS</text>
-      <text class="copy" x="48" y="49">AI code review &amp; GitHub intelligence platform — analyses pull requests for bugs, code quality and security issues.</text>
-      <text class="copy" x="48" y="68">Evidence-backed findings with file refs, severity and confidence; GitHub App + webhooks; human-approved comments.</text>
-      <text class="meta" x="48" y="87">REACT · JAVASCRIPT · PYTHON · FASTAPI · POSTGRESQL · LANGCHAIN · OPENAI API · PINECONE · GITHUB API</text>
+      <text class="title" x="48" y="24" font-size="20">03 / SYNAXYS</text>
+      <text class="copy" x="48" y="49" font-size="16">AI code review &amp; GitHub intelligence platform — analyses pull requests for bugs, code quality and security issues.</text>
+      <text class="copy" x="48" y="68" font-size="16">Evidence-backed findings with file refs, severity and confidence; GitHub App + webhooks; human-approved comments.</text>
+      <text class="meta" x="48" y="87" font-size="11">REACT · JAVASCRIPT · PYTHON · FASTAPI · POSTGRESQL · LANGCHAIN · OPENAI API · PINECONE · GITHUB API</text>
       <line class="rule" x1="48" y1="104" x2="952" y2="104"/>
     </g>
   </g>
