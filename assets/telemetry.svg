@@ -31,12 +31,12 @@
   <!-- language bars — auto-generated -->
   <text fill="var(--dim)" class="mono" x="48" y="78" font-size="10" letter-spacing="2.5">LANGUAGE DISTRIBUTION · LIVE</text>
   <g class="mono" font-size="11">
-<text fill="var(--bone)" x="48" y="108">python</text>       <rect class="bar g1" x="48" y="116" width="220" height="6" fill="var(--accent)"/><text fill="var(--muted)" x="278" y="123" font-size="10">36.6%</text>
-    <text fill="var(--bone)" x="48" y="146">typescript</text>       <rect class="bar g2" x="48" y="154" width="140" height="6" fill="var(--bone)"/><text fill="var(--muted)" x="198" y="161" font-size="10">23.3%</text>
-    <text fill="var(--bone)" x="48" y="184">javascript</text>       <rect class="bar g3" x="48" y="192" width="131" height="6" fill="var(--bone)"/><text fill="var(--muted)" x="189" y="199" font-size="10">21.8%</text>
-    <text fill="var(--bone)" x="48" y="222">html</text>       <rect class="bar g4" x="48" y="230" width="102" height="6" fill="var(--bone)"/><text fill="var(--muted)" x="160" y="237" font-size="10">17%</text>
-    <text fill="var(--bone)" x="48" y="260">css</text>       <rect class="bar g5" x="48" y="268" width="5" height="6" fill="var(--bone)"/><text fill="var(--muted)" x="63" y="275" font-size="10">0.8%</text>
-    <text fill="var(--bone)" x="48" y="298">other</text>       <rect class="bar g6" x="48" y="306" width="4" height="6" fill="var(--bone)"/><text fill="var(--muted)" x="62" y="313" font-size="10">0.4%</text>
+<text fill="var(--bone)" x="48" y="108">python</text>       <rect class="bar g1" x="48" y="116" width="220" height="6" fill="var(--accent)"/><text fill="var(--muted)" x="278" y="123" font-size="10">44%</text>
+    <text fill="var(--bone)" x="48" y="146">typescript</text>       <rect class="bar g2" x="48" y="154" width="141" height="6" fill="var(--bone)"/><text fill="var(--muted)" x="199" y="161" font-size="10">28.1%</text>
+    <text fill="var(--bone)" x="48" y="184">javascript</text>       <rect class="bar g3" x="48" y="192" width="131" height="6" fill="var(--bone)"/><text fill="var(--muted)" x="189" y="199" font-size="10">26.2%</text>
+    <text fill="var(--bone)" x="48" y="222">css</text>       <rect class="bar g4" x="48" y="230" width="5" height="6" fill="var(--bone)"/><text fill="var(--muted)" x="63" y="237" font-size="10">1%</text>
+    <text fill="var(--bone)" x="48" y="260">dockerfile</text>       <rect class="bar g5" x="48" y="268" width="4" height="6" fill="var(--bone)"/><text fill="var(--muted)" x="62" y="275" font-size="10">0.2%</text>
+    <text fill="var(--bone)" x="48" y="298">other</text>       <rect class="bar g6" x="48" y="306" width="4" height="6" fill="var(--bone)"/><text fill="var(--muted)" x="62" y="313" font-size="10">0.5%</text>
   </g>
 
   <!-- shipping velocity -->
