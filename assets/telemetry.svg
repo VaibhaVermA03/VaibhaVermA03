@@ -31,11 +31,11 @@
   <!-- language bars — auto-generated -->
   <text fill="var(--dim)" class="mono" x="48" y="78" font-size="10" letter-spacing="2.5">LANGUAGE DISTRIBUTION · LIVE</text>
   <g class="mono" font-size="11">
-<text fill="var(--bone)" x="48" y="108">python</text>       <rect class="bar g1" x="48" y="116" width="220" height="6" fill="var(--accent)"/><text fill="var(--muted)" x="278" y="123" font-size="10">35.5%</text>
-    <text fill="var(--bone)" x="48" y="146">typescript</text>       <rect class="bar g2" x="48" y="154" width="140" height="6" fill="var(--bone)"/><text fill="var(--muted)" x="198" y="161" font-size="10">22.6%</text>
-    <text fill="var(--bone)" x="48" y="184">javascript</text>       <rect class="bar g3" x="48" y="192" width="134" height="6" fill="var(--bone)"/><text fill="var(--muted)" x="192" y="199" font-size="10">21.7%</text>
-    <text fill="var(--bone)" x="48" y="222">html</text>       <rect class="bar g4" x="48" y="230" width="118" height="6" fill="var(--bone)"/><text fill="var(--muted)" x="176" y="237" font-size="10">19%</text>
-    <text fill="var(--bone)" x="48" y="260">css</text>       <rect class="bar g5" x="48" y="268" width="5" height="6" fill="var(--bone)"/><text fill="var(--muted)" x="63" y="275" font-size="10">0.8%</text>
+<text fill="var(--bone)" x="48" y="108">python</text>       <rect class="bar g1" x="48" y="116" width="220" height="6" fill="var(--accent)"/><text fill="var(--muted)" x="278" y="123" font-size="10">33.5%</text>
+    <text fill="var(--bone)" x="48" y="146">javascript</text>       <rect class="bar g2" x="48" y="154" width="156" height="6" fill="var(--bone)"/><text fill="var(--muted)" x="214" y="161" font-size="10">23.8%</text>
+    <text fill="var(--bone)" x="48" y="184">typescript</text>       <rect class="bar g3" x="48" y="192" width="141" height="6" fill="var(--bone)"/><text fill="var(--muted)" x="199" y="199" font-size="10">21.4%</text>
+    <text fill="var(--bone)" x="48" y="222">html</text>       <rect class="bar g4" x="48" y="230" width="118" height="6" fill="var(--bone)"/><text fill="var(--muted)" x="176" y="237" font-size="10">18%</text>
+    <text fill="var(--bone)" x="48" y="260">css</text>       <rect class="bar g5" x="48" y="268" width="19" height="6" fill="var(--bone)"/><text fill="var(--muted)" x="77" y="275" font-size="10">2.9%</text>
     <text fill="var(--bone)" x="48" y="298">other</text>       <rect class="bar g6" x="48" y="306" width="4" height="6" fill="var(--bone)"/><text fill="var(--muted)" x="62" y="313" font-size="10">0.4%</text>
   </g>
 
@@ -58,7 +58,7 @@
 
   <!-- profile counters -->
   <g>
-    <g class="rise n1"><text fill="var(--bone)" class="mono" x="720" y="118" font-size="44">7</text><text fill="var(--muted)" class="mono" x="790" y="112" font-size="10" letter-spacing="2.5">REPOSITORIES</text></g>
+    <g class="rise n1"><text fill="var(--bone)" class="mono" x="720" y="118" font-size="44">8</text><text fill="var(--muted)" class="mono" x="790" y="112" font-size="10" letter-spacing="2.5">REPOSITORIES</text></g>
     <g class="rise n2"><text fill="var(--bone)" class="mono" x="720" y="178" font-size="44">3</text><text fill="var(--muted)" class="mono" x="790" y="172" font-size="10" letter-spacing="2.5">PROJECTS DOCUMENTED</text></g>
     <g class="rise n3"><text fill="var(--bone)" class="mono" x="720" y="238" font-size="44">3</text><text fill="var(--muted)" class="mono" x="790" y="232" font-size="10" letter-spacing="1.0">AI DOMAINS — RAG, AGENTS, REVIEW</text></g>
     <g class="rise n4"><text fill="var(--accent)" class="mono" x="718" y="298" font-size="44">∞</text><text fill="var(--muted)" class="mono" x="790" y="292" font-size="10" letter-spacing="2.5">PROMPTS BEING ITERATED</text></g>
