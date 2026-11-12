@@ -15,7 +15,7 @@
     <text x="85.7" y="196" text-anchor="middle" fill="var(--dim)">12</text>
     <rect class="bar" x="140.3" y="173" width="41.4" height="7" fill="var(--ink)" style="transform-origin:140.3px 180px"/>
     <text x="161.0" y="196" text-anchor="middle" fill="var(--dim)">01</text>
-    <rect class="bar" x="215.6" y="82" width="41.4" height="98" fill="var(--ink)" style="transform-origin:215.6px 180px"/>
+    <rect class="bar" x="215.6" y="85" width="41.4" height="95" fill="var(--ink)" style="transform-origin:215.6px 180px"/>
     <text x="236.3" y="196" text-anchor="middle" fill="var(--dim)">02</text>
     <rect class="bar" x="290.9" y="180" width="41.4" height="0" fill="var(--ink)" style="transform-origin:290.9px 180px"/>
     <text x="311.7" y="196" text-anchor="middle" fill="var(--dim)">03</text>
